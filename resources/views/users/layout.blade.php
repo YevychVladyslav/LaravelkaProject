@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Vladick Laravelka</title>
+    <title>Badoonz Laravel Project</title>
 </head>
 <body>
 
